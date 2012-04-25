@@ -1,0 +1,1 @@
+../../windows_basic_test/lib/eucalog.sh
